@@ -13,3 +13,4 @@ En este trabajo practico utlizamos todas nuestras habilidades con asemmbler y to
 
 
 ## Procedimientos
+- [X] TRABAJAR CON SPRITES
