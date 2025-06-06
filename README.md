@@ -2,9 +2,9 @@
 ---
 ### Alumnos:
   - Badino ivan
-  - 
-  -
-  -
+  - Arana Mario
+  - Sebrian Jeremias
+  - Siachoque Cristhiam
 
   
 ## TP asemmbler 
