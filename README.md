@@ -40,6 +40,16 @@ En este trabajo practico utlizamos todas nuestras habilidades con asemmbler y to
 - [ ] TRABAJAR CON SPRITES
 - [ ] 
 
-## trabajo sobre el mazo
+## diviciones de trabajo
 
-trabajaremos con un solo mazo.
+- jere
+  - [ ] nose
+
+- cris
+  - [ ] nose
+ 
+- mario
+  - [ ] nose
+ 
+- ivo
+  - [ ] nose
