@@ -1,30 +1,16 @@
 # estructura
 
-menu ( reglas , juego, salir)
-
-
-mostrar reglas
-
-juego()
-
-aleatorio y decrementar en array
-
-
-mostrar y sumar cartas 
-
-petición usuario (pedir, quedarse, retirarse)
-
- 
-apostar x dinero (pa depues si se puede)
-
-ganar y perder
-
-caso AS (si el usuario tiene menos de 11 el A vale 11 si tine mas el A vale 1) 
-
-condiciones del crupier (si tiene mas de 16 no puede pedir mas cartas y si es menor esta obligado a pedir otra)
-
-perder (si la suma de las cartas en menor a la del crupier cuando se finalizo el turno de  jugador  o  su mano  supera  los 21 el jugar pierde)
-
+- menu ( reglas , juego, salir)
+- mostrar reglas
+- juego()
+- aleatorio y decrementar en array
+- mostrar y sumar cartas
+- petición usuario (pedir, quedarse, retirarse)
+- apostar x dinero (pa depues si se puede)
+- ganar y perder
+- caso AS (si el usuario tiene menos de 11 el A vale 11 si tine mas el A vale 1)
+- condiciones del crupier (si tiene mas de 16 no puede pedir mas cartas y si es menor esta obligado a pedir otra)
+- perder (si la suma de las cartas en menor a la del crupier cuando se finalizo el turno de  jugador  o  su mano  supera  los 21 el jugar pierde)
 
 # Funcionamiento
 
