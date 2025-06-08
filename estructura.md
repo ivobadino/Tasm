@@ -17,11 +17,12 @@
 ## 1-mostrar menu y escoger accion  ( reglas , juego, salir)
 
 ## 2-juego
-priocesos 
-	A-generar cartas y repartir
-	B-repartir (quitar las cartas del array)
-	C-mostrar las dos cartas del jugador y una del crupier y la suma de sus cartas  (black jack)
-	D-petición usuario:  si quiere otra carta, no la quiere o se quiere retirarse
+procesos 
+
+- A-generar cartas y repartir
+- B-repartir (quitar las cartas del array)
+- C-mostrar las dos cartas del jugador y una del crupier y la suma de sus cartas  (black jack)
+- D-petición usuario:  si quiere otra carta, no la quiere o se quiere retirarse
 
 1-si quiere 
 a-generar carta nueva(quitar la carta del array)
