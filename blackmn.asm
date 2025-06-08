@@ -1,3 +1,4 @@
+;MAIN DEL JUEGO DEL BLACK JACK
 .8086
 .model small
 .stack 100h
