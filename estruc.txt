@@ -1,0 +1,19 @@
+El Blackjack es un juego de cartas en el que el objetivo es alcanzar 21 puntos o acercarse lo más posible sin pasarse. Se juega contra el crupier, no contra otros jugadores.
+
+Valor de las cartas:
+	As: Puede valer 1 o 11, segun convenga.
+	Figuras (J, Q, K): Valen 10 puntos.
+	Cartas numericas (2-10): Valen su numero.
+
+Como se juega:
+
+Cada jugador recibe dos cartas boca arriba.
+El crupier recibe una carta boca arriba y otra boca abajo.
+El jugadores pueden pedir mas cartas (hit) o quedarse con su mano (stand).
+Si la suma de las cartas supera 21, el jugador pierde (bust).
+
+Como gana el jugador:
+Si su mano es mayor que la del crupier sin pasarse de 21.
+Si el crupier se pasa de 21.
+Si obtiene black jack.
+
